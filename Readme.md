@@ -324,8 +324,6 @@ This is for backing up books YOU PURCHASED.
 > **GitHub - PixelMelt/amazon_book_downloader: Downloads books from the amazon web reader**
 > Downloads books from the amazon web reader. Contribute to PixelMelt/ amazon_book_downloader development by creating an account on GitHub.
 > ![Github thumbnail](img/amazon_book_downloader.png)
-
-GitHub
-PixelMelt
+> **GitHub** • PixelMelt
 
 Don't get me sued into oblivion thanks.
