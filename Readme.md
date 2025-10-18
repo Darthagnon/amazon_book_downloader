@@ -7,7 +7,7 @@ by [Pixelmelt](https://github.com/PixelMelt/), 15 Oct 2025
 
 [Upstream archive](https://web.archive.org/web/20251016212441/https://github.com/PixelMelt/amazon_book_downloader?ref=blog.pixelmelt.dev) (upstream Github repo is now 404)
 
-Editor's note: As an alternative, 
+*Editor's note: As an alternative, buy an old Kindle and transfer Amazon-bought books to that; they will be in older, unlockable formats.*
 
 ![Cover image](img/photo-1656115914684-2845b7a13476.jpg)
 
